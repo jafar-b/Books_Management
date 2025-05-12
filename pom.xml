@@ -5,29 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.5</version>
+		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Jafar</groupId>
-	<artifactId>BookManagementApplication</artifactId>
+	<groupId>com.bookStore</groupId>
+	<artifactId>bookStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BookManagementApplication</name>
-	<description>Book Management Application project in Spring Boot</description>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	<name>bookStore</name>
+	<description>This is book store project</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

@@ -1,10 +1,10 @@
-package com.Jafar.BookManagementApplication;
+package com.bookStore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BookManagementApplicationTests {
+class BookStoreApplicationTests {
 
 	@Test
 	void contextLoads() {
